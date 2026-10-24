@@ -1,4 +1,10 @@
-## Hi there 👋
+<div align="center">
+  
+<img src="https://readme-typing-svg.demolab.com?font=Henny+Penny&size=23&duration=6000&pause=1800&color=910303&background=FFFFFF00&width=435&lines=The+internet+runs+through+my+veins;+instead+of+blood%E2%80%94and+without+it...;I+cannot+survive" alt="Typing SVG" />
+
+</div>
+
+
 
 <!--
 **Optikman/Optikman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
