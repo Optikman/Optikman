@@ -1,11 +1,7 @@
 # Welcome, dear visitors 🙋‍♂️🖐 أهلا بالسادة الزائرين
-
-## I wish you a wonderful day 🙏 أتمنى لكم يوماً سعيداً
-
 #
 #
-
-### ✨There is a piece of wisdom I really love✨:
+## ✨There is a piece of wisdom I really love✨:
 "what you sow🌾 today, you will reap tomorrow.👌🏆"
 
 #
@@ -14,6 +10,7 @@
 #
 #
 #
+I wish you a wonderful day 🙏 أتمنى لكم يوماً سعيداً
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Optikman&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
 #
