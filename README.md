@@ -20,3 +20,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<Optikman>/<your-username>/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<Optikman>/<Optikman>/output/github-snake.svg">
+  <img alt="A snake eating through my GitHub contribution graph" src="https://raw.githubusercontent.com/<your-username>/<Optikman>/output/github-snake.svg">
+</picture>
